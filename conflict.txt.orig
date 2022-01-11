@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 1 Je modifie la ligne 1 dans master
+2 conflict
+=======
+1 conflict
 Je modifie la ligne 2
+>>>>>>> realwork
 3 conflict
