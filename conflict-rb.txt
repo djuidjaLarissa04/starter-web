@@ -1,3 +1,5 @@
 1 conflict 
 2 conflict
-3 je modifie la ligne 3 
+3 conflict
+Je modifie la ligne 3 dans master 
+
